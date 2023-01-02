@@ -1,0 +1,21 @@
+Fifa mini project plan
+
+TARGET
+-Predict a players 'ova' by analysing data.
+    
+    
+   Steps
+   
+   1.Importing librarys for get, read and work on data
+   2.Reading data
+   3.Data cleaning
+     - standardizing header names
+     - dropping columns
+     - checking for null values
+     - changing column types
+     - removing symbols
+     4.Visualization
+     5.Creating a model
+     
+   
+   
